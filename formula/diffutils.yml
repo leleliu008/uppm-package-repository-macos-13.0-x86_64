@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/diffutils-3.8-macos13.0-x86_64.tar.xz
+bin-sha: 19b0c98e70b785994fe6f34281eaf1cd342a2d23ad7d2d6966d931c0fac308cb

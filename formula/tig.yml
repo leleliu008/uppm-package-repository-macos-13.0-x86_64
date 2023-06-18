@@ -1,0 +1,5 @@
+summary: Text interface for Git repositories
+webpage: https://jonas.github.io/tig
+version: 2.5.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/tig-2.5.7-macos13.0-x86_64.tar.xz
+bin-sha: cc111fce52accaa775dcdf0146d400e7f8cc6fb7ee7cdc7251bb06dcb3d870fe

@@ -1,0 +1,5 @@
+summary: Universal Prebuild Package Manager
+webpage: https://github.com/leleliu008/uppm
+version: 0.12.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/uppm-0.12.0-macos13.0-x86_64.tar.xz
+bin-sha: 716b71a5b5ce91c4c9932456e962c59687e894508bd36c198b6ef1ee5359ee45

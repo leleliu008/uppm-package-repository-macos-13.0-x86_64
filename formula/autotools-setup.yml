@@ -1,0 +1,5 @@
+summary: a command-line tool to setup GNU Autotools.
+webpage: https://github.com/leleliu008/autotools-setup
+version: 1.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/autotools-setup-1.0.0-macos13.0-x86_64.tar.xz
+bin-sha: b6c0d590fc02e1a5d8595cfd104c3d2eb4fd5fd7fec2b3f81e0a416594a1efa3

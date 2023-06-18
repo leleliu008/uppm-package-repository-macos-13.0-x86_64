@@ -1,0 +1,5 @@
+summary: GitHub command-line tool
+webpage: https://github.com/cli/cli
+version: 2.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/gh-2.20.0-macos13.0-x86_64.tar.xz
+bin-sha: d10e2b4b778f4bc5b7ac271a56d0176fb3b8820d6729a997dcbc3860eb496ead

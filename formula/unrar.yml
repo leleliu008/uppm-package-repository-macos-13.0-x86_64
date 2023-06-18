@@ -1,0 +1,5 @@
+summary: Extract, view, and test RAR archives
+webpage: https://www.rarlab.com
+version: 6.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/unrar-6.1.7-macos13.0-x86_64.tar.xz
+bin-sha: e4d5bd299fb3b03b4ec215b696eae36a38aab86a48262fab4e9d11e2be4ff823

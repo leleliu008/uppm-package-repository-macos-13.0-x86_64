@@ -1,0 +1,5 @@
+summary: Lightweight and flexible command-line JSON processor
+webpage: https://stedolan.github.io/jq
+version: 1.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/jq-1.6-macos13.0-x86_64.tar.xz
+bin-sha: b1c8903db8d1165fb8c88b6f9c89796e4d91db1ae2c0bbd88d13e66a0dd7721c

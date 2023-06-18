@@ -1,0 +1,5 @@
+summary: LZMA-based compression program similar to gzip or bzip2
+webpage: https://www.nongnu.org/lzip
+version: 1.23
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/lzip-1.23-macos13.0-x86_64.tar.xz
+bin-sha: 8bbbd4f1c0eb94f5a258ffec70f606970f3bfd708b9bea837f55186b1194a35c

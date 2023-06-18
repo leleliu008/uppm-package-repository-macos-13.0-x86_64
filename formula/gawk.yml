@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/gawk-5.1.1-macos13.0-x86_64.tar.xz
+bin-sha: aa853c3a547aaec645a81f827876a1e39a415484bf9604c59b32000eca4865da
