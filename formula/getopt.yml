@@ -1,0 +1,5 @@
+summary: A command-line option parsing utility
+webpage: https://github.com/util-linux/util-linux
+version: 2.40.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2023.06.18/getopt-2.40.1-macos-13.0-x86_64.tar.xz
+bin-sha: 473a6a63ae6d5f1f0c05aa541c4038d7de25f09e9eb418212752c80655b77623
