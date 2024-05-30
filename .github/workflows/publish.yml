@@ -9,7 +9,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [aalib, actionlint, adig, ag, age, alacritty, alass, algernon, anchor-cli, antibody, apkeep, aptly, archiver, args, aria2, autoconf-archive, automake, autotools-setup, axel, b3sum, bandwhich, base16, base64, bash, basis_universal, bat, bazelisk, bc, bcrypt, bdw-gc, bear, berkeley-db, binaryen, bind, binocle, bison, bitcoin, bk, bmake, boringssl, botan, bottom, boxes, brook, broot, bsdtar, bullet, byacc, bzip2, c-examples, caddy, cargo-c, cargo-deb, catch2, catimg, ccache, cereal, cflow, chafa, cheat, check, chezmoi, chicken, choose, cli11, cmake, coreutils, cpio, cppcheck, cppunit, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curlie, cxxopts, d2, darkhttpd, dasel, dash, dav1d, delta, diffutils, distcc, dmalloc, dns2tcp, dnslookup, dnsmap, dnsx, dog, dos2unix, dot_static, doxygen, dtc, dua, duf, dufs, dust, dylibbundler, easyutils, ed, eigen, elvish, epsilon, esbuild, ethereum, exa, exhale, faac, faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, findent, findutils, fish, flatc, flex, flock, fnm, fontconfig, frei0r, fselect]
+        pkg: [aalib, actionlint, adig, ag, age, alacritty, alass, algernon, anchor-cli, antibody, apkeep, aptly, archiver, args, aria2, autoconf-archive, automake, autotools-setup, awk, axel, b3sum, bandwhich, base16, base64, bash, basis_universal, bat, bazelisk, bc, bcrypt, bdw-gc, bear, berkeley-db, bgrep, binaryen, bind, binocle, bison, bitcoin, bk, blockhash, bmake, boringssl, botan, bottom, boxes, brook, broot, bsdtar, bullet, byacc, bzip2, c-examples, caddy, cargo-c, cargo-deb, catch2, catimg, ccache, cereal, cflow, chafa, cheat, check, chezmoi, chicken, choose, cli11, cmake, coreutils, cotp, cpio, cppcheck, cppunit, cpuinfo, croc, crosstool-ng, crowbook, ctop, cue, curlie, cxxopts, d2, darkhttpd, dasel, dash, dav1d, delta, diffutils, distcc, dmalloc, dns2tcp, dnslookup, dnsmap, dnsx, dog, doggo, dos2unix, dot_static, doxygen, dtc, dua, duf, dufs, duktape, dust, dylibbundler, easyutils, ed, eigen, elvish, epsilon, esbuild, ethereum, exa, exhale, eza, faac, faad2, fcp, fd, fdk-aac, fdroidcl, fff, figlet, findent, findutils, fish]
 
     runs-on: macos-13
 
@@ -62,7 +62,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [fsmon, fzf, fzy, garble, gawk, gbt, gdu, geographiclib, geos, getopt, gettext-tools, gh, giflib, git, git-cliff, git-lfs, gitui, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, graphene, grep, grex, groff, gron, grpc-plugins, gsed, gtar, gzip, helix, helm, hexdump, hexyl, htop, htslib, hugo, hunspell, hurl, hydroxide, hyperfine, id3lib, ideviceinstaller, imagemagick, intltool, ixwebsocket, jansson, jemalloc, jfrog-cli, jj, joshuto, jq, json-glib, jump, k9s, ko, lame, lazygit, lcms2, lcov, less, lf, libaec, libao, libasync++, libb2, libbcrypt, libblake3, libcaca, libcddb, libcdio, libcgif, libcrc32c, libcroco, libfftw3, libflatbuffers, libimagequant, libimobiledevice-glue, libintl, libintl-lite, libirecovery, libisoburn, libjpeg, libkrb5, liblinear, liblmdb, libmaxminddb, libmetalink, libmicrohttpd, libmill, libmimalloc, libmpir, libnng, libopenh264, libphonenumber, libpipeline, libpsl, libqalculate, libraqm, libraw, librist, librtmp, libsmi, libspng, libsrtp, libtorrent-rasterbar]
+        pkg: [flatc, flex, flock, fnm, fontconfig, frei0r, fselect, fsmon, fswatch, fzf, fzy, garble, gawk, gbt, gdu, geographiclib, geos, getopt, gettext-tools, gh, giflib, gindent, git, git-cliff, git-lfs, gitui, gitwatch, glib-tools, glow, glslang, gm4, gmake, gn, gnu-barcode, gnu-which, gnupg, go-md2man, go-tools, godu, gogs, golang, gomobile, google-benchmark, gopls, goreleaser, gosh, gotop, gotty, gox, gperf, gperftools, gping, gpsim, gputils, graphene, grep, grex, groff, gron, grpc-plugins, gsed, gtar, gzip, helix, helm, hexdump, hexyl, htop, htslib, httpx, hugo, hunspell, hurl, hydroxide, hyperfine, id3lib, ideviceinstaller, inih, intltool, invoice, ixwebsocket, jansson, jemalloc, jfrog-cli, jj, joshuto, jq, json-glib, jump, k9s, ko, lame, lazygit, lcms2, lcov, less, lf, libaec, libao, libasync++, libb2, libbcrypt, libblake3, libcaca, libcddb, libcdio, libcgif, libcpuinfo, libcrc32c, libcroco, libdatrie, libduktape, libfftw3, libflatbuffers, libimagequant, libimobiledevice-glue, libintl, libintl-lite, libirecovery, libisoburn, libjpeg, libkrb5, liblinear, liblmdb, liblua, libmaxminddb, libmd, libmetalink]
 
     runs-on: macos-13
 
@@ -115,7 +115,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [libupnp, libuuid, libwebm, libxcrypt, libxml2-python3, libyuv, libz3, libzim, libzlog, lighttpd, links, livego, llhttp, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luau, lunatic, lunzip, lychee, lynx, lzip, lzo, lzop, magic_enum, mcfly, md4c, mdbook, mdcat, mediainfo, minisign, miniz, minizip, minizip-ng, mold, mosh, mpg123, mpv, msgpack-c, mujs, nano, nanomsg, nasm, navi, ncdu, neofetch, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, nspr, ntbtls, nushell, oat++, obfs4proxy, onefetch, openal-soft, openblas, openlibm, openmpi, openslide, p11-kit, p7zip, packcc, patch, patchelf, pget, pigz, pjsip, pkg-config, pkgconf, plzip, png, pngquant, ppkg, progress, putty, pybind11, pystring, python3-setup, qemu, qpdf, qrencode, quiche, quickjs, ragel, rang, ranger, rapidjson, rav1e, rclone, re2c, redis, rhash, ripgrep, rlwrap, rsass, rsync, rtmpdump, rtorrent, rust-analyzer, sassc, scc, sccache, screenresolution, sd, shared-mime-info, shc, shell2http, shiori, simdjson, sjpeg, skcms, sl, slang, socat, soundtouch, speex, sqlite3, starship, stylua, supervisord, suricata]
+        pkg: [libmicrohttpd, libmill, libmimalloc, libmpir, libnetpbm, libnng, libopenh264, libphonenumber, libpipeline, libpsl, libpugixml, libqalculate, libraqm, libraw, librist, librtmp, libsmi, libspng, libsrtp, libtinyxml2, libtorrent-rasterbar, libtwolame, libupnp, libuuid, libwebm, libxcrypt, libxml2-python3, libyuv, libz3, libzim, libzlog, lief, lighttpd, links, livego, llhttp, lmdb, lodepng, log4cplus, lolcat, lrzip, lsd, lsof, luau, lunatic, lunzip, lychee, lynx, lzip, lzo, lzop, magic_enum, mcfly, md4c, mdbook, mdcat, mediainfo, minisign, miniz, minizip, mold, mosh, mpg123, mpv, msgpack-c, mujs, nano, nanomsg, nap, nasm, navi, ncdu, neofetch, netcat, nethogs, netpbm, nghttp2, nginx, ngtcp2, ninja, nnn, nsh, nspr, ntbtls, nuclei, nushell, oat++, obfs4proxy, onefetch, openal-soft, openblas, opencolorio, openlibm, openmpi, openslide, p11-kit, p7zip, packcc, patch, patchelf, pbzip2, pcapplusplus, pget, pigz, pjsip, pkg-config, pkgconf, plzip, png, pngcheck, pngquant, pngsplit, poco, ppkg, procs, progress, pup, putty, pybind11, python3-setup, q, qemu, qpdf, qrencode, quiche, quickjs, ragel, rang]
 
     runs-on: macos-13
 
@@ -168,7 +168,60 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        pkg: [svn-lite, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tbb, tbox, tcc, tcl, tcpdump, tealdeer, tectonic, tengo, terragrunt, tig, tinysearch, tinyxml2, tlrc, tmux, tokei, toml++, toml11, tree, ttyd, ttygif, ttyrec, tweego, twolame, typos, uctags, unbound, unixodbc, unrar, uppm, uppm@0.15.2, uppm@0.15.3, usrsctp, utf8.h, utfcpp, util-linux, vala, vegeta, vim, virustotal-cli, viu, volta, vsftpd, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, websocketpp, wget, wolfssl, wuzz, x264, x265, xh, xmake, xmlrpc-c, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence, xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash, xz, yajl, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsync]
+        pkg: [ranger, rapidjson, rav1e, rclone, re2c, redis, restic, resvg, rhash, ripgrep, ripgrep-all, rlwrap, rsass, rsync, rtmpdump, rtorrent, ruff, rust-analyzer, sassc, scc, sccache, screenresolution, sd, shared-mime-info, shc, shell2http, shellharden, shiori, silicon, simdjson, sjpeg, skcms, sl, slang, socat, soundtouch, speex, sqlite3, starship, stwolame, stylua, subfinder, supervisord, suricata, svn-lite, swig, syncthing, sysinfo, szip, t1utils, taglib, tarlz, tbb, tbox, tcc, tcl, tcpdump, tealdeer, tectonic, tengo, terragrunt, tig, tinysearch, tlrc, tmux, tokei, toml++, toml11, tree, trietool, ttyd, ttygif, ttyrec, tweego, twolame, typos, uctags, unbound, unixodbc, unrar, uppm, uppm@0.15.2, uppm@0.15.3, usrsctp, utf8.h, utfcpp, util-linux, vala, valijson, vegeta, vim, virustotal-cli, viu, volta, vsftpd, wasm3, wasmer, wasmtime, watchexec, wavpack, webhook, websocketpp, wget, whois, wolfssl, wuzz, x264, x265, xh, xmake, xmlrpc-c, xmlto, xmlutils, xmlwf, xorg-libxcursor, xorg-libxdamage, xorg-libxmu, xorg-libxpresent, xorg-libxscrnsaver, xorg-libxshmfence, xorg-libxvmc, xorg-libxxf86vm, xorg-xinput, xorriso, xpup, xsltproc, xxd, xxhash]
+
+    runs-on: macos-13
+
+    steps:
+      - run: curl -LO https://raw.githubusercontent.com/leleliu008/xcpkg/master/xcpkg
+      - run: chmod +x xcpkg
+
+      - run: ./xcpkg env
+      - run: ./xcpkg setup
+      - run: ./xcpkg update
+      - run: ./xcpkg install MacOSX-13.0-x86_64/${{ matrix.pkg }}
+
+      - name: pack
+        run: |
+          set -ex
+
+          for item in $(./xcpkg ls-installed)
+          do
+              ./xcpkg pack "$item"
+
+              PACKAGE_SUMMARY="$(./xcpkg info-installed "$item" summary)"
+              PACKAGE_WEB_URL="$(./xcpkg info-installed "$item" web-url)"
+              PACKAGE_VERSION="$(./xcpkg info-installed "$item" version)"
+
+              PACKAGE_NAME="${item#*/}"
+
+              PACKAGE_FILENAME="$(ls $PACKAGE_NAME-$PACKAGE_VERSION-*.tar.xz)"
+
+              PACKAGE_BIN_SHA="$(./xcpkg run sha256sum "$PACKAGE_FILENAME" | cut -d ' ' -f1)"
+
+              PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_FILENAME"
+
+              cat > "$PACKAGE_NAME.yml" <<EOF
+          summary: $PACKAGE_SUMMARY
+          webpage: $PACKAGE_WEB_URL
+          version: $PACKAGE_VERSION
+          bin-url: $PACKAGE_BIN_URL
+          bin-sha: $PACKAGE_BIN_SHA
+          EOF
+          done
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: ${{ matrix.pkg }}
+          path: |
+            ./*.tar.xz
+            ./*.yml
+
+  build5:
+    strategy:
+      fail-fast: false
+      matrix:
+        pkg: [xz, yajl, yaml-cpp, yasm, youtubedr, yq, yyjson, zip, zlib-ng, zls, zola, zopfli, zoxide, zsh, zstd, zsync]
 
     runs-on: macos-13
 
@@ -218,7 +271,7 @@ jobs:
             ./*.yml
 
   publish:
-    needs: [build1, build2, build3, build4]
+    needs: [build1, build2, build3, build4, build5]
 
     runs-on: ubuntu-latest
 
