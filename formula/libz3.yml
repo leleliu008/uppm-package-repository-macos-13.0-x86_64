@@ -1,0 +1,5 @@
+summary: High-performance theorem prover
+webpage: https://github.com/Z3Prover/z3
+version: 4.12.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libz3-4.12.6-macos-13.0-x86_64.tar.xz
+bin-sha: d3ff572fdcd6f24139250fa1c4f054975e69a4b08f5f56dae24f7f6e2e30cd0e

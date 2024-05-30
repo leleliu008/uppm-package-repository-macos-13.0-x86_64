@@ -1,0 +1,5 @@
+summary: DICOM WSI read library
+webpage: https://github.com/ImagingDataCommons/libdicom
+version: 1.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libdicom-1.1.0-macos-13.0-x86_64.tar.xz
+bin-sha: e13e44a7defd76b72f808afdc8cb6e9b15d7bb1aef8a2b5697bba7cf74b0d539

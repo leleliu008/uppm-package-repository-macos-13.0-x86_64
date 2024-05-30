@@ -1,5 +1,5 @@
-summary: command-line interface for SQLite
+summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
 webpage: https://www.sqlite.org/
-version: 3.41.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/sqlite-3.41.1-macos13.0-x86_64.tar.xz
-bin-sha: 309f87bcb290b448598720d4b2699afd3f32b26a5a0b3e98262493cb3e552739
+version: 3.45.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/sqlite3-3.45.3-macos-13.0-x86_64.tar.xz
+bin-sha: b61158867f5dd3f10aa7b00e70aa8f14a88d9ee933aca5880e17ef4eae0d4faf

@@ -1,5 +1,5 @@
-summary: Shell extension to navigate your filesystem faster
+summary: A shell extension to navigate your filesystem faster
 webpage: https://github.com/ajeetdsouza/zoxide
-version: 0.9.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/zoxide-0.9.0-macos13.0-x86_64.tar.xz
-bin-sha: 99d5d88dc1263476a184ece03656e2c08cf6ead7f75532b2b6e9330193c274c8
+version: 0.9.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/zoxide-0.9.4-macos-13.0-x86_64.tar.xz
+bin-sha: 224048496e90bbe2f025a1fb0f9dffa42fca0bbb5d7df33b92964444ea52a4ba

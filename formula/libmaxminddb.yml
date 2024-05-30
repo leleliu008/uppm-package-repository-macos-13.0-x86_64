@@ -1,0 +1,5 @@
+summary: C library for the MaxMind DB file format
+webpage: https://github.com/maxmind/libmaxminddb
+version: 1.7.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libmaxminddb-1.7.1-macos-13.0-x86_64.tar.xz
+bin-sha: 4942cc4f415ba711a8393b3e8e7646614f928f785a9e117ac56c5d5b2934eea7

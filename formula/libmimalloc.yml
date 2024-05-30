@@ -1,0 +1,5 @@
+summary: Compact general purpose allocator
+webpage: https://github.com/microsoft/mimalloc
+version: 2.1.6
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libmimalloc-2.1.6-macos-13.0-x86_64.tar.xz
+bin-sha: 02eacc7a0fe948c8e56694e76039a96e36168588b157c71ff223206c9a73b276

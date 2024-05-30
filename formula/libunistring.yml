@@ -1,0 +1,5 @@
+summary: C library for manipulating Unicode strings
+webpage: https://www.gnu.org/software/libunistring
+version: 1.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libunistring-1.2-macos-13.0-x86_64.tar.xz
+bin-sha: 1b08cd74e1593bd3f84e29eec5067f92f29ebddd53531091c2686a1cd5aaed07

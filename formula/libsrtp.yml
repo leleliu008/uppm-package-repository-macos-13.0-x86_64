@@ -1,0 +1,5 @@
+summary: Implementation of the Secure Real-time Transport Protocol
+webpage: https://github.com/cisco/libsrtp
+version: 2.6.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libsrtp-2.6.0-macos-13.0-x86_64.tar.xz
+bin-sha: 25ccbe9b62c313251564f0cb0785edcffef2ba8ed703d7f0bef8f28432cd11de

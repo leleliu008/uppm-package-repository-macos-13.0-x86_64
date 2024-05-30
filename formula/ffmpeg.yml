@@ -1,0 +1,5 @@
+summary: A complete, cross-platform solution to record, convert and stream audio and video
+webpage: https://ffmpeg.org/
+version: 7.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/ffmpeg-7.0-macos-13.0-x86_64.tar.xz
+bin-sha: 3d9380d4d12d254921d0ef3d949f2c7fb91e65266b60fa33a4b3e3606ff6ef02

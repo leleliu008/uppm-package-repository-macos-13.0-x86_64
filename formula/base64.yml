@@ -1,5 +1,5 @@
 summary: base64 encoder and decoder
 webpage: https://github.com/leleliu008/C-examples
-version: 2023.06.18
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/base64-2023.06.18-macos13.0-x86_64.tar.xz
-bin-sha: 7c9f260abe06cf6a4d70724ff2cdc63cc9be5cbd0ca8826acf5531888b6a9580
+version: 2024.05.29
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/base64-2024.05.29-macos-13.0-x86_64.tar.xz
+bin-sha: 8ac9775d740bd45bf13af202345e03ae1e8f8befcf4b112570e94982eb31aec0

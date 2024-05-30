@@ -1,0 +1,5 @@
+summary: A file compressor
+webpage: https://www.lzop.org/
+version: 1.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/lzop-1.04-macos-13.0-x86_64.tar.xz
+bin-sha: 6fd09c3ecdadcfe18f8e3b931b4d29f9c987a353205a7633840e0c01cf91064c

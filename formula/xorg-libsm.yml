@@ -1,0 +1,5 @@
+summary: X.Org Session Management Library
+webpage: https://www.x.org/
+version: 1.2.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xorg-libsm-1.2.4-macos-13.0-x86_64.tar.xz
+bin-sha: a0c983dfbb2640eadeed519f6dcb1573318d34f90ee88b19ddb4d3e777a780fe

@@ -1,5 +1,5 @@
-summary: Render markdown on the CLI
+summary: A terminal based markdown reader
 webpage: https://github.com/charmbracelet/glow
-version: 1.4.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/glow-1.4.1-macos13.0-x86_64.tar.xz
-bin-sha: f9e16a0aa18079f89564c4ab36d285d14549eaf5de96dd584fc986868a682b34
+version: 1.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/glow-1.5.1-macos-13.0-x86_64.tar.xz
+bin-sha: 0fa5afd2d25ee98e7cf4385004d353446258526e09bee596c97d9fe77a882496

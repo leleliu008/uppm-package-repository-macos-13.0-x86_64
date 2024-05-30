@@ -1,0 +1,5 @@
+summary: Library for encoding and decoding .avif files
+webpage: https://github.com/AOMediaCodec/libavif
+version: 1.0.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libavif-1.0.4-macos-13.0-x86_64.tar.xz
+bin-sha: ad1351a93dae8b2bc6d24126b3ee107be39725afec48a493d93ab734c2c7a74b

@@ -1,0 +1,5 @@
+summary: Portable SCTP userland stack
+webpage: https://github.com/sctplab/usrsctp
+version: 0.9.5.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/usrsctp-0.9.5.0-macos-13.0-x86_64.tar.xz
+bin-sha: 552f75f1aaf296278345e95c4d471a7edd9a44d04a812f52cd5349aca9a39031

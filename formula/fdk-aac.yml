@@ -1,0 +1,5 @@
+summary: Standalone library of the Fraunhofer FDK AAC code from Android
+webpage: https://sourceforge.net/projects/opencore-amr
+version: 2.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/fdk-aac-2.0.3-macos-13.0-x86_64.tar.xz
+bin-sha: 0cc1abf461e80e457da9853c505c7f0a8033b14567c731552cfeb1d304e4aeb2

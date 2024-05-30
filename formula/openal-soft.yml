@@ -1,0 +1,5 @@
+summary: Implementation of the OpenAL 3D audio API
+webpage: https://openal-soft.org/
+version: 1.23.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/openal-soft-1.23.1-macos-13.0-x86_64.tar.xz
+bin-sha: 11ca2d80cd0f657ff1c2dd47e7a10522ff45ed11208a4522af87298736bee938

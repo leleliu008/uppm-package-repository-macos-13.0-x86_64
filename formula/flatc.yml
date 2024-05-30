@@ -1,0 +1,5 @@
+summary: An efficient cross platform serialization library for C++
+webpage: https://google.github.io/flatbuffers
+version: 24.3.25
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/flatc-24.3.25-macos-13.0-x86_64.tar.xz
+bin-sha: 7465bc27e1e84e674d530668cb972458d60c15dc14310b5d4fd3b17142c053db

@@ -1,5 +1,5 @@
-summary: Unified display of technical and tag data for audio/video
-webpage: https://mediaarea.net
-version: 22.06
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/mediainfo-22.06-macos13.0-x86_64.tar.xz
-bin-sha: 327c7c2bc9c53f2653d94afd23c3400f1112a4ba356ea31996be01e83ae9c376
+summary: A convenient unified display of the most relevant technical and tag data for video and audio files
+webpage: https://mediaarea.net/
+version: 24.04
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/mediainfo-24.04-macos-13.0-x86_64.tar.xz
+bin-sha: 9ecccc13841567e6e68d2822556f2ac9e3bd27cbefc988737f1582c9e127a147

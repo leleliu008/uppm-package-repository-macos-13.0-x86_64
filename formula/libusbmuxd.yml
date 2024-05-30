@@ -1,0 +1,5 @@
+summary: USB multiplexor library for iOS devices
+webpage: https://www.libimobiledevice.org
+version: 2.0.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libusbmuxd-2.0.2-macos-13.0-x86_64.tar.xz
+bin-sha: 6de00f3c9bbaab718d34842d662f58717f03b08326197073ef88eefb70f7959a

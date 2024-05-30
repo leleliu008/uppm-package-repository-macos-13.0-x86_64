@@ -1,5 +1,5 @@
-summary: Distributed revision control system
+summary: A free and open source distributed version control system with speed and efficiency
 webpage: https://git-scm.com/
-version: 2.40.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/git-2.40.0-macos13.0-x86_64.tar.xz
-bin-sha: 3a1a4498f9b663fa538b5c482cd08f5cc63448419637ce59db5ff9816dc8dcdf
+version: 2.45.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/git-2.45.0-macos-13.0-x86_64.tar.xz
+bin-sha: 1b7014b3e95779c2f3240da156e096eb3093f8497ea0bcfe422cdbe12711d10d

@@ -1,0 +1,5 @@
+summary: Platform-neutral API for system-level and libc-like functions
+webpage: https://developer.mozilla.org/docs/Mozilla/Projects/NSPR
+version: 4.35
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/nspr-4.35-macos-13.0-x86_64.tar.xz
+bin-sha: 723e9f0ba6d31f7ec43cf0c19fd7dc412bea70c688acc6172814a38dddc7147c

@@ -1,0 +1,5 @@
+summary: Generate introspection data for GObject libraries
+webpage: https://gi.readthedocs.io
+version: 1.76.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/gobject-introspection-1.76.1-macos-13.0-x86_64.tar.xz
+bin-sha: d11a36d0082726ad648e3db3be159dfce978a1d305c5592f24dfc3e41badf89a

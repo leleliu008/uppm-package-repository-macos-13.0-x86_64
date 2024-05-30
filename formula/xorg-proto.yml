@@ -1,0 +1,5 @@
+summary: X.Org Protocol Headers
+webpage: https://www.x.org/
+version: 2022.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xorg-proto-2022.2-macos-13.0-x86_64.tar.xz
+bin-sha: 671e8b9eecd975d918d07f0e5b4fd6a787d38d720f1e20c9a4b49d7fb71bda00

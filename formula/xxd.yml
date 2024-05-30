@@ -1,5 +1,5 @@
-summary: a command-line tool to create a hex dump of a given file or standard input.
+summary: A command-line tool to create a hex dump of a given file or standard input
 webpage: https://www.vim.org/
-version: 9.0.0350
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/xxd-9.0.0350-macos13.0-x86_64.tar.xz
-bin-sha: 2e514ebaeffd7b6a9354721ef41fff3bc148e90187b72eaaecdf37d059e5dad2
+version: 9.1.0300
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xxd-9.1.0300-macos-13.0-x86_64.tar.xz
+bin-sha: 48dfd2e85fc243092ee16ac43071d0cbbe3b799bdc617fe93a9b755e0f8e40db

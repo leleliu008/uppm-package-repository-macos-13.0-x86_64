@@ -1,0 +1,5 @@
+summary: A collection of tools, libraries, and tests for Vulkan shader compilation
+webpage: https://github.com/google/shaderc
+version: 2024.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/shaderc-2024.0-macos-13.0-x86_64.tar.xz
+bin-sha: 103c1673064ecf66bb30daf0fb0ea4a3774ebadc251112af3140a9196e50bc01

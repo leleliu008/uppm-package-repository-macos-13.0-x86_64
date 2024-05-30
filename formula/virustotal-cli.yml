@@ -1,0 +1,5 @@
+summary: command-line interface for VirusTotal
+webpage: https://github.com/VirusTotal/vt-cli
+version: 1.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/virustotal-cli-1.0.0-macos-13.0-x86_64.tar.xz
+bin-sha: d860b2d63c53b88ff2b37072c4e8b92ce3eac46041972db5a0d07e0a6a0abf51

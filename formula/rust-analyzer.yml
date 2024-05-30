@@ -1,0 +1,5 @@
+summary: Experimental Rust compiler front-end for IDEs
+webpage: https://rust-analyzer.github.io/
+version: 2023.06.05
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/rust-analyzer-2023.06.05-macos-13.0-x86_64.tar.xz
+bin-sha: 0c3ffa394ea5d04cd431018dec567b33dfa0a0624fe4faa4243387db94a1bfcd

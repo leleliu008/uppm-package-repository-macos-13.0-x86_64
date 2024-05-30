@@ -1,0 +1,5 @@
+summary: Encoding detector library
+webpage: https://www.freedesktop.org/wiki/Software/uchardet/
+version: 0.0.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/uchardet-0.0.8-macos-13.0-x86_64.tar.xz
+bin-sha: 9a8fdc933ed01d01416806f8e9dea0bbe142acacdd58f56deda0c183e29f0eec

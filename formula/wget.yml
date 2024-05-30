@@ -1,5 +1,5 @@
-summary: Internet file retriever
+summary: A free, open-source, command-line tool that is used to download files from web servers using HTTP, HTTPS, FTP protocols
 webpage: https://www.gnu.org/software/wget
-version: 1.21.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos13.0-x86_64/releases/download/2023.06.18/wget-1.21.3-macos13.0-x86_64.tar.xz
-bin-sha: 4b90f48a75746670dca97e072cf67abf255ae15ecbb01aba453f406feddf67d9
+version: 1.24.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/wget-1.24.5-macos-13.0-x86_64.tar.xz
+bin-sha: 6594bcc54514d33c2d33a3acf0615858b54f389c8369fe778f3b22654d80b252

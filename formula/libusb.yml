@@ -1,0 +1,5 @@
+summary: Library for USB device access
+webpage: https://libusb.info
+version: 1.0.26
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libusb-1.0.26-macos-13.0-x86_64.tar.xz
+bin-sha: a5c75424cf62037df7c4fbdf2702cc15f455457c5061537055c486775a7dc253

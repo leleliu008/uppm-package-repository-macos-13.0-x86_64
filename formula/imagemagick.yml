@@ -1,0 +1,5 @@
+summary: Tools and libraries to manipulate images in many formats
+webpage: https://imagemagick.org/
+version: 7.1.1.32
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/imagemagick-7.1.1.32-macos-13.0-x86_64.tar.xz
+bin-sha: 290a2a14765df3e7e93f0d4d5d9d6bc5d76ca92ea1b9acb025515cb33b5c16e6

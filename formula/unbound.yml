@@ -1,0 +1,5 @@
+summary: Validating, recursive, caching DNS resolver
+webpage: https://www.unbound.net
+version: 1.17.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/unbound-1.17.1-macos-13.0-x86_64.tar.xz
+bin-sha: 82fcb9459f0233b97e9fb27862814b038e7f04b7648719acd0306626a84c9529

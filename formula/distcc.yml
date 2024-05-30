@@ -1,0 +1,5 @@
+summary: Distributed compiler client and server
+webpage: https://www.distcc.org/
+version: 3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/distcc-3.4-macos-13.0-x86_64.tar.xz
+bin-sha: adce70c62fe1e34e6140eb9e5fac4cb28e1ada63ecd11e3209f36d5020eeed53
