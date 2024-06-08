@@ -1,5 +1,5 @@
 summary: A friendly and fast tool for sending HTTP requests
 webpage: https://github.com/ducaale/xh
 version: 0.22.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xh-0.22.0-macos-13.0-x86_64.tar.xz
-bin-sha: 8975ba1536e3015040ee6f62094331980148d3b9b4410070b76610672ae8f1f5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/xh-0.22.0-macos-13.0-x86_64.tar.xz
+bin-sha: d924c937e73ea19a48e5463aba86681036a63b75c78c22e3ace3ef13fe2fa762

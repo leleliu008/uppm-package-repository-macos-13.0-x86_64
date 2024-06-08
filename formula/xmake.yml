@@ -1,5 +1,5 @@
 summary: A cross-platform build utility based on Lua
 webpage: https://xmake.io/
 version: 2.9.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xmake-2.9.2-macos-13.0-x86_64.tar.xz
-bin-sha: dea14ddfdad947aa4c3ce18eae92fbb9d3222db36b44cd7b5c762900ef3aa973
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/xmake-2.9.2-macos-13.0-x86_64.tar.xz
+bin-sha: 5456fd08ffa61d05a3d1ce8cecb51ecbf8aad4b36ff9f42a770c7686b4df9f9d

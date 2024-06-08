@@ -1,5 +1,5 @@
 summary: Spell checker and morphological analyzer
 webpage: https://hunspell.github.io
 version: 1.7.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/hunspell-1.7.2-macos-13.0-x86_64.tar.xz
-bin-sha: 7ad055658a346508a5fe7e74dcb94151370aa477be80fff14653d264b1bf33f5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/hunspell-1.7.2-macos-13.0-x86_64.tar.xz
+bin-sha: ac286d813f3988e7a07cf18a460955ddedf8063d569cc5d20bdad3fc7924b205

@@ -1,0 +1,5 @@
+summary: An open source library to store and retrieve huge raster coverages
+webpage: https://www.gaia-gis.it/fossil/librasterlite/index
+version: 1.1g
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/librasterlite-1.1g-macos-13.0-x86_64.tar.xz
+bin-sha: ec0e3920cb4cb67c5f75f099b6ee93be712a5ae80702d763657c7f3e15002315

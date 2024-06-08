@@ -1,0 +1,5 @@
+summary: Print info and check PNG, JNG, and MNG files
+webpage: http://www.libpng.org/pub/png/apps/pngcheck.html
+version: 3.0.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/pngcheck-3.0.3-macos-13.0-x86_64.tar.xz
+bin-sha: 03aeae2e367864eac252fcd9a6646fea9c2e28fae165cb383dc87656631d7cc5

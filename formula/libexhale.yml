@@ -1,0 +1,5 @@
+summary: Open source xHE-AAC encoder
+webpage: https://gitlab.com/ecodis/exhale
+version: 1.1.9
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libexhale-1.1.9-macos-13.0-x86_64.tar.xz
+bin-sha: 4348dffb10a0f09ebb0029d2ef6abae63fa3f93309c7136341aaf58d589c3151

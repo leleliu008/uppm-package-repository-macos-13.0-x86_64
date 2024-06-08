@@ -1,0 +1,5 @@
+summary: C++ mathematics library for graphics software
+webpage: https://glm.g-truc.net/
+version: 1.0.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libglm-1.0.1-macos-13.0-x86_64.tar.xz
+bin-sha: 319d15ae2decc3417c9323b1cc866654a0d3a0ba82d7dfabfc830ba4ae2c9c57

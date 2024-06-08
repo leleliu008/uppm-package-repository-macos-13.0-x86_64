@@ -1,5 +1,5 @@
 summary: Lightweight RPC library (based on XML and HTTP)
 webpage: https://xmlrpc-c.sourceforge.io/
 version: 1.59.03
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xmlrpc-c-1.59.03-macos-13.0-x86_64.tar.xz
-bin-sha: 9620003db0016600caa9a9077b814c43eb5632fac75a618b11688bcfbc86b1ea
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/xmlrpc-c-1.59.03-macos-13.0-x86_64.tar.xz
+bin-sha: 6bb90b4d62997650be84feb9982d4df86d7a0264dc04d44f7b8ad65262447c37

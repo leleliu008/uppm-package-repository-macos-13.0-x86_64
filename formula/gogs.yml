@@ -1,5 +1,5 @@
 summary: Go git service
 webpage: https://gogs.io
 version: 0.13.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/gogs-0.13.0-macos-13.0-x86_64.tar.xz
-bin-sha: 5102c0d6caf18e649641c12da03c875576c969a39b4132329be2cdabfa4abd3c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/gogs-0.13.0-macos-13.0-x86_64.tar.xz
+bin-sha: 45c2d08cf34ae7911649be456ffa50146efb1cebb19664ce4b64d94e262d32e5

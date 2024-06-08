@@ -1,0 +1,5 @@
+summary: A fast image processing library with low memory needs
+webpage: https://github.com/libvips/libvips
+version: 8.15.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libvips-8.15.2-macos-13.0-x86_64.tar.xz
+bin-sha: 33a9b5422195e8862ceea2f0c4aca2d7e1bda835e0b505ab6d9ba04de596788b

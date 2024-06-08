@@ -1,5 +1,5 @@
 summary: GNU Pretty Good Privacy (PGP) package
 webpage: https://www.gnupg.org
 version: 2.4.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/gnupg-2.4.3-macos-13.0-x86_64.tar.xz
-bin-sha: aaa1e3380a7ebe8a43b740096801ef7af9cf16a10b247cbc9559446649b1786a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/gnupg-2.4.3-macos-13.0-x86_64.tar.xz
+bin-sha: 50c1ec74b0712ea06c02dcb6492f72107b9bee819bf3a629ca14ccd1830ff239

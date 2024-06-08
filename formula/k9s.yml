@@ -1,5 +1,5 @@
 summary: Kubernetes CLI To Manage Your Clusters In Style!
 webpage: https://k9scli.io/
-version: 0.27.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/k9s-0.27.4-macos-13.0-x86_64.tar.xz
-bin-sha: 03504af2ac46901dbfe2799b976de6f1bd1bb7625b581d9d2f3129a23da462ad
+version: 0.32.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/k9s-0.32.4-macos-13.0-x86_64.tar.xz
+bin-sha: 8c872086bd9132ece6decc6449096b708e3c7268cde1154ec5e65ac9a90c13b0

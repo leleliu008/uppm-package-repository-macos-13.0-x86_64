@@ -1,5 +1,5 @@
 summary: A dead simple tool to sign files and verify signatures
 webpage: https://jedisct1.github.io/minisign/
 version: 0.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/minisign-0.11-macos-13.0-x86_64.tar.xz
-bin-sha: e5ea592de9ce52e62bd906aa3b53ab7d2cb8c1651e586301db62546b8a175bd3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/minisign-0.11-macos-13.0-x86_64.tar.xz
+bin-sha: 685b187deb1a433739f3a20e9b455c55e92cf3ef130418584913153331e8b5ea

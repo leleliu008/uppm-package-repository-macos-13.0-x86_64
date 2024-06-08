@@ -1,0 +1,5 @@
+summary: A portable C++ library for parallel programming developed by Intel
+webpage: https://github.com/oneapi-src/oneTBB
+version: 2021.12.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libtbb-2021.12.0-macos-13.0-x86_64.tar.xz
+bin-sha: d515b1daab0f2f70f881ad93d4a3b351355dbcfdd8d527a577ba4576e986fed7

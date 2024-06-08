@@ -1,5 +1,5 @@
 summary: A collection of subroutines used by various GNU programs
 webpage: https://packages.debian.org/sid/libiberty-dev
 version: 20230104
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libiberty-20230104-macos-13.0-x86_64.tar.xz
-bin-sha: 6a94a390da6ba4147e2cbe8b0fb0f58dc376a9afed893f7704d9b2e99771cc7e
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libiberty-20230104-macos-13.0-x86_64.tar.xz
+bin-sha: b3164cb4bd3d79c5677aa91395af38ff4a1e8fbc85729212b734887cc5cd882b

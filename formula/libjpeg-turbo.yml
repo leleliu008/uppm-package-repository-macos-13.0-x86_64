@@ -1,5 +1,5 @@
 summary: A high-performance JPEG image codec that uses SIMD instructions (MMX, SSE2, AVX2, Neon, AltiVec) to accelerate baseline JPEG compression and decompression
 webpage: https://www.libjpeg-turbo.org/
 version: 3.0.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libjpeg-turbo-3.0.2-macos-13.0-x86_64.tar.xz
-bin-sha: e5fc12aabd4f0da8ae33b0da7f4947c71d11b5d33741f80fc8a3a99238c46208
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libjpeg-turbo-3.0.2-macos-13.0-x86_64.tar.xz
+bin-sha: 98ffd60d90d60e7bbac06b0cd69c010fb2549fc9b4cd50fd7d2a2f13da3507e6

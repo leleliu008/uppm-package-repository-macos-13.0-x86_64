@@ -1,5 +1,5 @@
 summary: Reliable Internet Stream Transport (RIST)
 webpage: https://code.videolan.org/rist/
 version: 0.2.10
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/librist-0.2.10-macos-13.0-x86_64.tar.xz
-bin-sha: 2b86d0866af28ff8f43526b7165e6794899d73394d9fa4ff4ae568bbcded53ec
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/librist-0.2.10-macos-13.0-x86_64.tar.xz
+bin-sha: 546947b76f8b798feeae6eeb2de98d05c63126dc638ce5bec5975e051992633d

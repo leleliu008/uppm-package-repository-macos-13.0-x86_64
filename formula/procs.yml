@@ -1,0 +1,5 @@
+summary: Modern replacement for ps written by Rust
+webpage: https://github.com/dalance/procs
+version: 0.14.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/procs-0.14.5-macos-13.0-x86_64.tar.xz
+bin-sha: 81e9de77f7074c8e29e5023e5b51c51545d9ed62dee491137ab753adbf5945c6

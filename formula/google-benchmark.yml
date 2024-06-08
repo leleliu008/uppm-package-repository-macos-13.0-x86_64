@@ -1,5 +1,5 @@
 summary: A C++ library to benchmark code snippets, similar to unit tests
 webpage: https://github.com/google/benchmark
-version: 1.8.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/google-benchmark-1.8.2-macos-13.0-x86_64.tar.xz
-bin-sha: 0f7c37608781f61b324aee293b621f7991735bc09407556ef308136b1e1a7b2e
+version: 1.8.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/google-benchmark-1.8.4-macos-13.0-x86_64.tar.xz
+bin-sha: c9361cd578a9f7bd4785b37e8f8064494c036a5a8870cac0d74724d80836dfdc

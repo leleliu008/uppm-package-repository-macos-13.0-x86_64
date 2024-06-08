@@ -1,5 +1,5 @@
 summary: Go implementation of the Ethereum protocol
 webpage: https://geth.ethereum.org/
-version: 1.13.14
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/ethereum-1.13.14-macos-13.0-x86_64.tar.xz
-bin-sha: 369f63e56a40523deb2d68fddf81fbda3f6ae97f8f362e655d878b2390a56394
+version: 1.14.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/ethereum-1.14.3-macos-13.0-x86_64.tar.xz
+bin-sha: 35bee503223394d68468b425596e2d27cf0bdd24a1c89935c2cbe0318e08b597

@@ -1,5 +1,5 @@
 summary: Multi-platform, multi-architecture disassembly framework
 webpage: https://www.capstone-engine.org/
 version: 5.0.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/capstone-5.0.1-macos-13.0-x86_64.tar.xz
-bin-sha: fc5d3b2ad64bf4a028a8077aa36e7a4893da2c359c476972fea67080c0f1cb44
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/capstone-5.0.1-macos-13.0-x86_64.tar.xz
+bin-sha: a77a21affcdf42079c5af697a5edcfed9e09dfc37d98981c997555c880d803c9

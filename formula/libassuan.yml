@@ -1,5 +1,5 @@
 summary: Assuan IPC Library
 webpage: https://www.gnupg.org/related_software/libassuan
 version: 2.5.6
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libassuan-2.5.6-macos-13.0-x86_64.tar.xz
-bin-sha: 6b2c483fa68e6e32401e6c76cb9290c18c2e8fbdece432350812f5f0ac01fae2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libassuan-2.5.6-macos-13.0-x86_64.tar.xz
+bin-sha: 374269fe79c68e9753e4c812bc7f7051ea8fb87ec9bc1065f46cdd224cef2adc

@@ -1,0 +1,5 @@
+summary: A invoice generator
+webpage: https://github.com/maaslalani/invoice
+version: 0.1.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/invoice-0.1.0-macos-13.0-x86_64.tar.xz
+bin-sha: 30ebcbe19ceeebd36fa3bc8f475f447c0f986cf62c116c3aca390938690818f2

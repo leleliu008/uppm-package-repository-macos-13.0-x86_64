@@ -1,5 +1,5 @@
 summary: A command-line tool to analyze packet(TCP/IP)
 webpage: https://www.tcpdump.org/
 version: 4.99.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/tcpdump-4.99.4-macos-13.0-x86_64.tar.xz
-bin-sha: 593106fea9bae492fe53af04da08e2932e4a88d512ba317d8adbef37f89fcee3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/tcpdump-4.99.4-macos-13.0-x86_64.tar.xz
+bin-sha: c9fde5c7d79c32a76c62df8497179ca931c2e42253be15cf1abc1b76e26128c8

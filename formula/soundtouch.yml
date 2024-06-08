@@ -1,5 +1,5 @@
 summary: Audio processing library
 webpage: https://www.surina.net/soundtouch/
 version: 2.3.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/soundtouch-2.3.1-macos-13.0-x86_64.tar.xz
-bin-sha: 20371bc03a3d2e4a8f1b0067a12af1abc57d6de470e4edebf68859bd58ea43e7
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/soundtouch-2.3.1-macos-13.0-x86_64.tar.xz
+bin-sha: 1558943d3f9a39fd4f8406bb5c53f312024cacaf31c897615df9a948e9f2e873

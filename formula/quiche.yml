@@ -1,5 +1,5 @@
 summary: Savoury implementation of the QUIC transport protocol and HTTP/3
 webpage: https://github.com/cloudflare/quiche
-version: 2024.05.29
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/quiche-2024.05.29-macos-13.0-x86_64.tar.xz
-bin-sha: 374802915077c72072cef0f8bf8f643c05e13941260a10cc9473a86426796c86
+version: 2024.06.07
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/quiche-2024.06.07-macos-13.0-x86_64.tar.xz
+bin-sha: 4cc8782fcde7cacfb17494de660c87bf160c421fb6b1cae5f536a616c5d9f7bf

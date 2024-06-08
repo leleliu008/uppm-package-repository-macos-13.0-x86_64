@@ -1,5 +1,5 @@
 summary: A cargo subcommand that generates Debian packages from information in Cargo.toml
 webpage: https://github.com/kornelski/cargo-deb
 version: 1.41.1
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/cargo-deb-1.41.1-macos-13.0-x86_64.tar.xz
-bin-sha: 04d1c20d4f20c69946f70e902f1a4d99d6b40ea3a9c01cb8604e9bfafa867902
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/cargo-deb-1.41.1-macos-13.0-x86_64.tar.xz
+bin-sha: 4174081655cc16a2dbea752ae460e24fd705665bbc453adcc1311aaee7509cb6

@@ -1,5 +1,5 @@
 summary: A C library for downloading RTMP streaming media
 webpage: https://rtmpdump.mplayerhq.hu
 version: 2.4.20151223
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/librtmp-2.4.20151223-macos-13.0-x86_64.tar.xz
-bin-sha: 2afe03124162c194255547789305715b74d1d9fba8cc9315fefbaf0f4a4dec8d
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/librtmp-2.4.20151223-macos-13.0-x86_64.tar.xz
+bin-sha: 2709c9139e0ad59a07db583172527cc6b9b0873349ddf68caddfcb88ab9a6a5b

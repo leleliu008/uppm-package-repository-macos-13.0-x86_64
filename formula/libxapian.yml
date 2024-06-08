@@ -1,5 +1,5 @@
 summary: C++ search engine library
 webpage: https://xapian.org/
 version: 1.4.25
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libxapian-1.4.25-macos-13.0-x86_64.tar.xz
-bin-sha: 7fc43b532e8f5d518ee947987c2016382bb1b8344a2391456beb310fdf9534f4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libxapian-1.4.25-macos-13.0-x86_64.tar.xz
+bin-sha: 702b11b113ef8ce1d383290057a7f61a26ba663d1259fb7ed86be810b7bbe834

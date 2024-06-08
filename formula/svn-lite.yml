@@ -1,5 +1,5 @@
 summary: A minimalist svn client to checkout/update Subversion repositories
 webpage: https://github.com/rofl0r/svn-lite
 version: 1.09
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/svn-lite-1.09-macos-13.0-x86_64.tar.xz
-bin-sha: 7ba89e963ae03ebb3f85d325c24e2df237326defed1da6c1241c7517a41e2e9a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/svn-lite-1.09-macos-13.0-x86_64.tar.xz
+bin-sha: 52961f6df1da941a698d7fb743615213f14ad9d15a45e80b9be1beaa62325920

@@ -1,5 +1,5 @@
 summary: A simple terminal UI for git commands
 webpage: https://github.com/jesseduffield/lazygit
 version: 0.42.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/lazygit-0.42.0-macos-13.0-x86_64.tar.xz
-bin-sha: 7c03e2ef3a8de3499b8f5fa446e4280ca2d7385ac86b9e8c481c2be2a6213d01
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/lazygit-0.42.0-macos-13.0-x86_64.tar.xz
+bin-sha: 682334b9ca86aa6af54efbfd1713eb465a3e3b6abc01ecb1988e3a3a917c1d36

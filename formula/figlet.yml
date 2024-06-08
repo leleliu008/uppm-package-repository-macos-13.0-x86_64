@@ -1,5 +1,5 @@
 summary: Banner-like program prints strings as ASCII art
 webpage: http://www.figlet.org/
 version: 2.2.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/figlet-2.2.5-macos-13.0-x86_64.tar.xz
-bin-sha: f7cd3cf33155e62c6c70e589981cac933632c2f20cbb39aa4bd54bf2f507b115
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/figlet-2.2.5-macos-13.0-x86_64.tar.xz
+bin-sha: 48a1a7b9a57e074d1c9f860f5171fe8ccd33580cc658962d1c78b10296f28fb1

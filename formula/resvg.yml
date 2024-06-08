@@ -1,0 +1,5 @@
+summary: A command-line tool to convert SVG to PNG
+webpage: https://github.com/RazrFalcon/resvg
+version: 0.42.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/resvg-0.42.0-macos-13.0-x86_64.tar.xz
+bin-sha: 5710431dac174e299e774f1db362bb51f704c3d7fe6566eab96a8d8ef426fd38

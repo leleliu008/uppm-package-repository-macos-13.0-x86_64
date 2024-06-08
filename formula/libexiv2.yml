@@ -1,0 +1,5 @@
+summary: A C++ library and a command-line utility to read, write, delete and modify Exif, IPTC, XMP and ICC image metadata
+webpage: https://exiv2.org/
+version: 0.28.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libexiv2-0.28.2-macos-13.0-x86_64.tar.xz
+bin-sha: ff100e866803bfdd562c0b853ed2be4f90e62f119c9299114c8ee4a64de8bee1

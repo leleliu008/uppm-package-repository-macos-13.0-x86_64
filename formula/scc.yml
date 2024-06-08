@@ -1,5 +1,5 @@
 summary: Fast and accurate code counter with complexity and COCOMO estimates
 webpage: https://github.com/boyter/scc
-version: 3.3.3
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/scc-3.3.3-macos-13.0-x86_64.tar.xz
-bin-sha: 3727f62dc4221ff30f42b98378e52589a87d751b9407ee7dbb5d1423f6d4e3f8
+version: 3.3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/scc-3.3.4-macos-13.0-x86_64.tar.xz
+bin-sha: 0de10a54fbb0175c518f0bb45f604b4074ec23ae45bf1576b676e791fc01d178

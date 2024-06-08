@@ -1,0 +1,5 @@
+summary: Library for decimal floating point arithmetic
+webpage: https://www.bytereef.org/mpdecimal/
+version: 4.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/mpdecimal-4.0.0-macos-13.0-x86_64.tar.xz
+bin-sha: b0caf0548483ea4a3031efaa24064293b0ee986a283827fa41e84e8f633b53cb

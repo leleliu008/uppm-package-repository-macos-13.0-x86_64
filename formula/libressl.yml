@@ -1,0 +1,5 @@
+summary: Version of the SSL/TLS protocol forked from OpenSSL
+webpage: https://www.libressl.org/
+version: 3.9.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libressl-3.9.2-macos-13.0-x86_64.tar.xz
+bin-sha: 90527fd41579574651d5d758425ff7dbce51bef4b08a50f6306a2f132b8afc02

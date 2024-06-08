@@ -1,0 +1,5 @@
+summary: Image format providing lossless and lossy compression for web images
+webpage: https://developers.google.com/speed/webp
+version: 1.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/webp-1.4.0-macos-13.0-x86_64.tar.xz
+bin-sha: 50c8aca6d6ef26f9bde41e2cc95def61438e2d70da081fcd9d091b37c103217a

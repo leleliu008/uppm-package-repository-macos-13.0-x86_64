@@ -1,0 +1,5 @@
+summary: Yet another free document preparation system
+webpage: https://www.chiark.greenend.org.uk/~sgtatham/halibut/
+version: 1.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/halibut-1.3-macos-13.0-x86_64.tar.xz
+bin-sha: bce7a90edfdd084b2b5da8b0d397616c50d284956f620d916d8ee77b684b7a76

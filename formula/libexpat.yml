@@ -1,5 +1,5 @@
 summary: XML 1.0 parser
 webpage: https://libexpat.github.io
 version: 2.6.2
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libexpat-2.6.2-macos-13.0-x86_64.tar.xz
-bin-sha: e932ec384cc3d5c92f5476ebcc866c8a7734154609d5c9c70be92b1d739d6f54
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libexpat-2.6.2-macos-13.0-x86_64.tar.xz
+bin-sha: 4e1f98043849d3f0ee855e88a96dd7e7a1cacd4eb616dec36436600a8946de4f

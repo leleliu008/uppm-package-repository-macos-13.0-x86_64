@@ -1,5 +1,5 @@
 summary: A Sample Authorization Protocol for X
 webpage: https://www.x.org/
 version: 1.0.11
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/xorg-libxau-1.0.11-macos-13.0-x86_64.tar.xz
-bin-sha: 8796933a6f2f9fc785c9fc971dea1d408c1eca0108d355a816bbd9d87517ffff
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/xorg-libxau-1.0.11-macos-13.0-x86_64.tar.xz
+bin-sha: 6dff33d587a4e5314ff1d555102b0adab7268132ccf667a949914cd30294b990

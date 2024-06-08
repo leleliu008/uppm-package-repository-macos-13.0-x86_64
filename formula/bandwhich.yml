@@ -1,5 +1,5 @@
 summary: Terminal bandwidth utilization tool
 webpage: https://github.com/imsnif/bandwhich
-version: 0.20.0
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/bandwhich-0.20.0-macos-13.0-x86_64.tar.xz
-bin-sha: 5dc09ea6e9f1e7f14cca4a2f0273e1f9c92416e4aec02b35fc7f162348cc7570
+version: 0.22.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/bandwhich-0.22.2-macos-13.0-x86_64.tar.xz
+bin-sha: 2f3db8c94b1ce0ff638e4d1e1ef7a81cf75b35c702d3160a62dff75ca2cf0a99

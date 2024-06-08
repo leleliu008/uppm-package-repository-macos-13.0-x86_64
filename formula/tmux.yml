@@ -1,5 +1,5 @@
 summary: Terminal multiplexer
 webpage: https://tmux.github.io
 version: 3.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/tmux-3.4-macos-13.0-x86_64.tar.xz
-bin-sha: 755976a831d399c238eaa725d0a874b75259e9791f119d52beb935b72fea286a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/tmux-3.4-macos-13.0-x86_64.tar.xz
+bin-sha: 5ec765238f3149c77b98a0c2eaf1f1d5ae0f5ade4464fda03b6dba1527ceeba2

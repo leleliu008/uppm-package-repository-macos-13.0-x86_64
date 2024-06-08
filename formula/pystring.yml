@@ -1,5 +1,5 @@
 summary: C++ functions matching the interface and behavior of python string methods with std::string
 webpage: https://github.com/imageworks/pystring
 version: 1.1.4
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/pystring-1.1.4-macos-13.0-x86_64.tar.xz
-bin-sha: 5b6be81d4272ad334259619de6b38ce04a50fff339a5589a6b8b19213288ba3c
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/pystring-1.1.4-macos-13.0-x86_64.tar.xz
+bin-sha: 235548db3c1f8a4ceda617c0e4d20fe9e881996638cc9f1d310454f88e667392

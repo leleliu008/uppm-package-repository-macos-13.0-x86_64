@@ -1,0 +1,5 @@
+summary: A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH
+webpage: https://github.com/natesales/q
+version: 0.19.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/q-0.19.1-macos-13.0-x86_64.tar.xz
+bin-sha: 67db445fbf639f16758f6516229b97315924cae3f6eddece4607899f31bbf70e

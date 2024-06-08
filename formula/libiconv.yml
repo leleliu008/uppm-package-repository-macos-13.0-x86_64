@@ -1,5 +1,5 @@
 summary: charset conversion library
 webpage: https://www.gnu.org/software/libiconv
 version: 1.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.05.30/libiconv-1.17-macos-13.0-x86_64.tar.xz
-bin-sha: 1b8487e3fe2dd37adfb7ca42868f135aa42638bf63739de2bf2eaa7176401f4a
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/libiconv-1.17-macos-13.0-x86_64.tar.xz
+bin-sha: ea630cc6e18312300fc01cf2036f17921b8a3cb86e0a77f47ea306f842d05e5b

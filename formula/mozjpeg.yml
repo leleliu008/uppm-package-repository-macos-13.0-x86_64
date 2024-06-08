@@ -1,0 +1,5 @@
+summary: Improved JPEG encoder
+webpage: https://github.com/mozilla/mozjpeg
+version: 4.1.5
+bin-url: https://github.com/leleliu008/uppm-package-repository-macos-13.0-x86_64/releases/download/2024.06.08/mozjpeg-4.1.5-macos-13.0-x86_64.tar.xz
+bin-sha: 0ef1ea6700c94ddadf1ff73ba81176a029ef93899de2a49211e914d9725f2e94
